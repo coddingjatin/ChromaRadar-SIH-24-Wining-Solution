@@ -13,10 +13,9 @@ A deep learning-based solution developed during **Smart India Hackathon 2024** u
 ## 🏆 Recognition
 
 <p align="center">
-  <img src="assets/sar_input.png" width="300"/>
-  <img src="assets/colorized_output.png" width="300"/>
+  <img src="win.jpg" width="300"/>
   <br/>
-  <em>SAR Input ➜ Colorized Output</em>
+  <em>Team Sarva-Conquerors</em>
 </p>
 
 ---
