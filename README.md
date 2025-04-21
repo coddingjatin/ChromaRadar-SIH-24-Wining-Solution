@@ -1,4 +1,4 @@
-# 🎯 Fusion Net – SIH 2024 Winning Solution
+# 🎯 Fusion Net – Our SIH 2024 Winning Solution
 
 A deep learning-based solution developed during **Smart India Hackathon 2024** under the problem statement by **ISRO**, focused on **SAR Image Colorization** using a hybrid attention-based model.
 
