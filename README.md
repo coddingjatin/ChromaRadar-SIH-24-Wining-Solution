@@ -76,11 +76,11 @@ Includes:
 ## 👨‍💻 Team Sarva-Conquerors
 
 - 🧠 Krushna Thakare (Team Leader)  
-- 🧠 Sujal Lokhande  
+- 🧠 Sujal Lokhande
+- 🧠 Vaidehi Upankar
 - 🧠 Pratik Dhaktode  
 - 🧠 Suhani Bighane  
 - 🧠 Hussain Raja  
-- 🧠 Vaidehi Upankar
 - 🧑‍🏫 Jatin Vishwakarma (Team Mentor(SIH'24 Mentor))
 
 ---
